@@ -1,2 +1,2 @@
-# hello-world
-First step
++ #About me
++ A terrifying begginning in course
